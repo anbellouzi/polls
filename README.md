@@ -1,15 +1,7 @@
 Autor: Anas Bellouzi
 Date: 10/28/2019
 
-Project: Django Database
-
-Instruction:
-1. $ git clone https://github.com/anbellouzi/bew1.2_tutorials.git
-2. $ cd bew1.2_tutorials
-3. $ cd mysite
-4. $ python3 manage.py runserver
-5. On any browser visit: http://127.0.0.1:8000/admin/
-6. username: 'testing' , password: 'testing123'
+Project: [Polls Live](https://mysite-polls-ab.herokuapp.com/)
 
 Features:
   1. Add/Edit Question
